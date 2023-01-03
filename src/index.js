@@ -1,10 +1,11 @@
 import ReactDOM from "react-dom";
 
+import ProfileBlock from "./components/profileBlock/profileBlock";
 
 function App() {
 
   return (
-    <>teste</>
+    <ProfileBlock/>
   )
 }
 
